@@ -1,16 +1,17 @@
-### Hi there 👋
+# Nahuel Farias - @NahuelFarias
+## Hola 👋
+Me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN BA y me apasiona adquirir conocimientos constantemente, actualmente estoy interesado en el mundo del Desarrollo Web!
 
-<!--
-**NahuelFarias/NahuelFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💼 Pasante en [COA ](https://www.coasa.com.ar/ "COA ") 
+- 📖 Realizo cursos online en [Platzi](https://platzi.com/ "Platzi")  💚
+- 😄 Me dicen: Nahu y Nahue
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+
+
+## Contacto
+- 👔 [Linkedin](https://ar.linkedin.com/in/nahuelfarias- "Linkedin")
+- 🐦 [Twitter](https://twitter.com/NahuelFarias_ "Twitter") 
+- 📧 Email: nahuelfarias812@gmail.com
