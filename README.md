@@ -6,10 +6,13 @@ Me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN BA y me a
 - 📖 Realizo cursos online en [Platzi](https://platzi.com/ "Platzi")  💚
 - 😄 Me dicen: Nahu y Nahue
 
-
 ------------
 
+![NahuelFarias's github stats](https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact)](https://github.com/NahuelFarias/github-readme-stats)
+
+------------
 
 ## Contáctame
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40NahuelFarias_&style=social&url=https%3A%2F%2Ftwitter.com%2FNahuelFarias_)](https://twitter.com/NahuelFarias_)
