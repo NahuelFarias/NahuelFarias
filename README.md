@@ -2,15 +2,13 @@
 ## Hola 👋
 Me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN BA y me apasiona adquirir conocimientos constantemente, actualmente estoy interesado en el mundo del Desarrollo Web!
 
-- 👨‍💼 Pasante en [COA ](https://www.coasa.com.ar/ "COA ") 
 - 📖 Realizo cursos online en [Platzi](https://platzi.com/ "Platzi")  💚
 - 😄 Me dicen: Nahu y Nahue
 
 ------------
-
-![NahuelFarias's github stats](https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact)](https://github.com/NahuelFarias/github-readme-stats)
+| Github Stats | Languajes |
+|---|---
+| ![NahuelFarias's github stats](https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact)](https://github.com/NahuelFarias/github-readme-stats) |
 
 ------------
 
