@@ -7,7 +7,7 @@ Me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN BA y me a
 - 😄 Me dicen: Nahu y Nahue
 
 ------------
-| Github Stats | Languajes |
+| Github Stats | Languages |
 |---|---
 | ![NahuelFarias's github stats](https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact)](https://github.com/NahuelFarias/github-readme-stats) |
 
