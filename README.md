@@ -1,9 +1,12 @@
 <h2 align="center">👋 Hola! Soy Nahuel Farias</h2>
 - 📚 Me encuentro en el tercer año de la carrera de Ingenieria en Sistemas en la UTN BA
+
 - 🐱‍👓 Me apasiona adquirir conocimientos constantemente!!
-- 📖 Realizo cursos online en [Platzi](https://platzi.com/ "Platzi")  💚
+
+- 📖 Realizo cursos online en <a href="https://platzi.com/">Platzi</a> 💚
+
 - 😄 Me dicen: Nahu y Nahue
-<br/>
+  <br/>
 
 ### 📈 Stats
 
