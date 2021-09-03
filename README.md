@@ -9,16 +9,16 @@
 - 😄 Me dicen: Nahu y Nahue
   <br/>
 
+---
+
 ### 📈 Stats
 
----
-
-<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact&langs_count=8&theme=github_dark"/><img width="55%" src="https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelFarias&layout=compact&langs_count=8&theme=github_dark"/> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=NahuelFarias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <br/>
 
-### 📱 Contáctame
-
 ---
+
+### 📱 Contáctame
 
 <a href="https://www.linkedin.com/in/nahuelfarias-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://twitter.com/NahuelFarias_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
