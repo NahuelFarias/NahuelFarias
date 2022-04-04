@@ -2,7 +2,7 @@
 
 - 📚 Me encuentro en el tercer año de la carrera de Ingenieria en Sistemas en la UTN BA
 
-- 🐱‍👓 Me apasiona adquirir conocimientos constantemente!!
+- 🦾 Me apasiona adquirir conocimientos constantemente!!
 
 - 📖 Realizo cursos online en <a href="https://platzi.com/">Platzi</a> 💚
 
