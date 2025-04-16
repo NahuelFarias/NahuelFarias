@@ -1,6 +1,5 @@
 ## 👋 Hey there! I'm Nahuel
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuelfarias-/)](https://www.linkedin.com/in/nahuelfarias-/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nahuelfarias812@gmail.com)](mailto:nahuelfarias812@gmail.com)
 ### 👨🏻‍💻 About Me
 - 🎓 I'm currently studying Information Systems Engineering at the National Technological University
 - 💼  Working as a Software Developer Begginer at [Producteca](https://www.producteca.com/)
